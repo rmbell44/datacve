@@ -1,0 +1,193 @@
+[{
+  "_id": "Exec Code Overflow Bypass",
+  "avgScore": 9
+},{
+  "_id": "Exec Code Overflow Mem. Corr.",
+  "avgScore": 8.577083333333334
+},{
+  "_id": "Exec Code Mem. Corr.",
+  "avgScore": 8.470833333333333
+},{
+  "_id": "Sql Bypass",
+  "avgScore": 8.125
+},{
+  "_id": "Exec Code Bypass",
+  "avgScore": 7.9399999999999995
+},{
+  "_id": "Exec Code +Priv",
+  "avgScore": 7.779999999999999
+},{
+  "_id": "Exec Code Sql",
+  "avgScore": 7.555172413793104
+},{
+  "_id": "Exec Code File Inclusion",
+  "avgScore": 7.5
+},{
+  "_id": "Exec Code Sql Bypass",
+  "avgScore": 7.5
+},{
+  "_id": "DoS Exec Code Mem. Corr.",
+  "avgScore": 7.5
+},{
+  "_id": " +Priv Bypass",
+  "avgScore": 7.4
+},{
+  "_id": "Exec Code Overflow",
+  "avgScore": 7.3237499999999995
+},{
+  "_id": "DoS Exec Code",
+  "avgScore": 7.2333333333333325
+},{
+  "_id": "Exec Code",
+  "avgScore": 7.172886762360446
+},{
+  "_id": "DoS Exec Code Overflow Mem. Corr.",
+  "avgScore": 7.107142857142857
+},{
+  "_id": "Sql",
+  "avgScore": 6.92312925170068
+},{
+  "_id": "Exec Code CSRF",
+  "avgScore": 6.8
+},{
+  "_id": "XSS CSRF",
+  "avgScore": 6.8
+},{
+  "_id": "DoS Exec Code Overflow",
+  "avgScore": 6.720000000000001
+},{
+  "_id": "Mem. Corr.",
+  "avgScore": 6.664
+},{
+  "_id": "Exec Code Sql +Info",
+  "avgScore": 6.5
+},{
+  "_id": "Exec Code Dir. Trav.",
+  "avgScore": 6.49
+},{
+  "_id": "Overflow +Info",
+  "avgScore": 6.4
+},{
+  "_id": " +Priv",
+  "avgScore": 6.267647058823529
+},{
+  "_id": " +Priv CSRF",
+  "avgScore": 6.25
+},{
+  "_id": "Overflow",
+  "avgScore": 6.045517241379311
+},{
+  "_id": "CSRF",
+  "avgScore": 5.980597014925373
+},{
+  "_id": "Overflow Mem. Corr.",
+  "avgScore": 5.9
+},{
+  "_id": "Bypass",
+  "avgScore": 5.733673469387755
+},{
+  "_id": "DoS Dir. Trav.",
+  "avgScore": 5.65
+},{
+  "_id": " +Priv Dir. Trav.",
+  "avgScore": 5.6
+},{
+  "_id": "DoS Sql",
+  "avgScore": 5.5
+},{
+  "_id": null,
+  "avgScore": 5.404232558139535
+},{
+  "_id": "Dir. Trav.",
+  "avgScore": 5.4024590163934425
+},{
+  "_id": "Exec Code Dir. Trav. Bypass",
+  "avgScore": 5.2
+},{
+  "_id": "Bypass CSRF",
+  "avgScore": 5.133333333333333
+},{
+  "_id": "File Inclusion",
+  "avgScore": 5.071428571428571
+},{
+  "_id": "Exec Code Bypass +Info",
+  "avgScore": 5
+},{
+  "_id": "Dir. Trav. +Info",
+  "avgScore": 5
+},{
+  "_id": "Sql +Info",
+  "avgScore": 5
+},{
+  "_id": "DoS Bypass",
+  "avgScore": 5
+},{
+  "_id": "DoS Overflow",
+  "avgScore": 4.907142857142857
+},{
+  "_id": "Exec Code +Info",
+  "avgScore": 4.720000000000001
+},{
+  "_id": "DoS",
+  "avgScore": 4.6519855595667865
+},{
+  "_id": "Overflow +Priv",
+  "avgScore": 4.6
+},{
+  "_id": " +Priv +Info",
+  "avgScore": 4.5
+},{
+  "_id": "Overflow Bypass",
+  "avgScore": 4.366666666666666
+},{
+  "_id": " +Info",
+  "avgScore": 4.317361111111111
+},{
+  "_id": "DoS XSS",
+  "avgScore": 4.3
+},{
+  "_id": "Http R.Spl.",
+  "avgScore": 4.3
+},{
+  "_id": "DoS Overflow Mem. Corr.",
+  "avgScore": 4.3
+},{
+  "_id": "Dir. Trav. CSRF",
+  "avgScore": 4.3
+},{
+  "_id": "XSS +Info",
+  "avgScore": 4.033333333333333
+},{
+  "_id": "Dir. Trav. File Inclusion",
+  "avgScore": 4
+},{
+  "_id": "XSS Dir. Trav.",
+  "avgScore": 4
+},{
+  "_id": "XSS Dir. Trav. +Info",
+  "avgScore": 4
+},{
+  "_id": "Exec Code XSS",
+  "avgScore": 3.9766666666666666
+},{
+  "_id": "XSS",
+  "avgScore": 3.9128644939965693
+},{
+  "_id": "XSS Bypass",
+  "avgScore": 3.9
+},{
+  "_id": "Dir. Trav. Bypass",
+  "avgScore": 3.8200000000000003
+},{
+  "_id": "Bypass +Info",
+  "avgScore": 3.7857142857142856
+},{
+  "_id": "DoS Mem. Corr.",
+  "avgScore": 3.3499999999999996
+},{
+  "_id": "DoS +Info",
+  "avgScore": 3.3
+},{
+  "_id": "DoS Overflow Bypass",
+  "avgScore": 2.1
+}]
