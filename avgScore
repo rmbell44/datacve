@@ -1,0 +1,14 @@
+[
+    {
+        '$group': {
+            '_id': '$Vulnerability Type(s)', 
+            'avgScore': {
+                '$avg': '$Score'
+            }
+        }
+    }, {
+        '$sort': {
+            'avgScore': -1
+        }
+    }
+]
