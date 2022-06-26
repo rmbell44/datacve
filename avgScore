@@ -1,14 +1,17 @@
+#python code creating pipeline
 [
     {
-        '$group': {
-            '_id': '$Vulnerability Type(s)', 
-            'avgScore': {
-                '$avg': '$Score'
-            }
+        '$match': {
+            'Vulnerability Type(s)': re.compile(r"XSS")
+            #all data entries including XSS threats
         }
     }, {
-        '$sort': {
-            'avgScore': -1
+        '$group': {
+            '_id': 'XSS', 
+            'avgScore': {
+                '$avg': '$Score'
+             #average score overall for all Cross-Site Scripting threats
+            }
         }
     }
 ]
