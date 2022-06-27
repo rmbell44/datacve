@@ -1,0 +1,57 @@
+[
+  {
+    "Vul. Type": "Exec Code",
+    "Avg. Score": 7.196813725,
+    "# Of Entries": 816
+  },
+  {
+    "Vul. Type": "Sql",
+    "Avg. Score": 6.74213198,
+    "# Of Entries": 197
+  },
+  {
+    "Vul. Type": "Mem. Corr.",
+    "Avg. Score": 6.648214286,
+    "# Of Entries": 56
+  },
+  {
+    "Vul. Type": "Overflow",
+    "Avg. Score": 6.171428571,
+    "# Of Entries": 294
+  },
+  {
+    "Vul. Type": "+Priv",
+    "Avg. Score": 6.002352941,
+    "# Of Entries": 85
+  },
+  {
+    "Vul. Type": "CSRF",
+    "Avg. Score": 5.868224299,
+    "# Of Entries": 107
+  },
+  {
+    "Vul. Type": "Bypass",
+    "Avg. Score": 5.858555133,
+    "# Of Entries": 263
+  },
+  {
+    "Vul. Type": "Dir. Trav.",
+    "Avg. Score": 5.73,
+    "# Of Entries": 116
+  },
+  {
+    "Vul. Type": "DoS",
+    "Avg. Score": 5.066666667,
+    "# Of Entries": 324
+  },
+  {
+    "Vul. Type": "+Info",
+    "Avg. Score": 4.470386266,
+    "# Of Entries": 233
+  },
+  {
+    "Vul. Type": "XSS",
+    "Avg. Score": 4.001438849,
+    "# Of Entries": 695
+  }
+]
