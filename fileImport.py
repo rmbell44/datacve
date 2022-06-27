@@ -29,5 +29,16 @@ file = file.sample(n=5000)
 file.to_csv("2018_updated.csv", index=False)
 #updated file name
 
+df = pd.read_csv("2018_updated.csv")
+# read updated file
+data = df.to_dict(orient = "records")
+#convert file
+#print(data) - test
 
+db = client.cvedata
+#connect to client
+# print(db) - test
+
+db.data2018.insert_many(data)
+#insert data to MongoDB
 
