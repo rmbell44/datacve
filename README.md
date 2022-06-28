@@ -8,3 +8,5 @@ findScores.py consist of aggregations used to find the scores and strings splitt
 Import CSV to MongoDB file is also included in fileImport.py 
 
 2018_Updated.csv is the updated csv after manipulating its data
+
+MORE TO COME! 🎉
