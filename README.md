@@ -1,9 +1,9 @@
 # datacve
 Data is split into files based on year
 
-2018Data-2022Data each consist of entire Data JSON File
+2018Data-2022Data each consist of entire Data JSON File (following the edits made in Python - 3 Columns)
 
-AvgScores / findScores.py are aggregations used to find the scores and strings splitting the Vulnerability Threat to sort the data
+findScores.py consist of aggregations used to find the scores and strings splitting the Vulnerability Threat to sort the data
 
 Import CSV to MongoDB file is also included in fileImport.py 
 
